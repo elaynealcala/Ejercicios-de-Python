@@ -1,3 +1,4 @@
+#este programa le pregunta al usuario el nombre y la edad, devolviendo el anio en el cual tendra cien anios
 nombre = raw_input("cual es tu nombre: ")
 edadhoy = int(input("cual es tu edad: "))
 fechacen = ((2017 - edadhoy) + 100)
