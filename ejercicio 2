@@ -1,0 +1,7 @@
+#Este programa le pregunta al usuario por un numero, y le devuelve un mensaje acerca de la paridad del mismo
+number = int(input("introduzca un numero: "))
+y=number%2
+if y>0 :
+ print("el numero que usted introdujo es impar")
+else :
+ print("el numero que usted introdujo es par")
