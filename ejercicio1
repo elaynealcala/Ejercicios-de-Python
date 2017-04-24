@@ -1,5 +1,4 @@
 nombre = raw_input("cual es tu nombre: ")
-edad = input("cual es tu edad: ")
-edadhoy = int(edad)
+edadhoy = int(input("cual es tu edad: "))
 fechacen = ((2017 - edadhoy) + 100)
 print(nombre + ", usted tendra cien anios en el anio " + str(fechacen))
