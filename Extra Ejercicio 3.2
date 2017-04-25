@@ -1,0 +1,15 @@
+#Descripción: Programa solicita un numero al usuario, y determina los numeros menores a este numero de una lista predeterminada: [3, 6, 9, 12, 15, 18, 21, 24, 27, 30]
+
+#Entrada: Numero entero x
+#Salida:  Numeros enteros menores a cinco pertenecientes a la lista lista1 = [3, 6, 9, 12, 15, 18, 21, 24, 27, 30]
+# Autor:   EALCALA
+# Fecha:  25.04.2017
+# Version: 2.0
+
+lista1 = [3, 6, 9, 12, 15, 18, 21, 24, 27, 30]
+x = int(input("Escoga un numero entero: "))
+lista2 = []
+for i in lista1:
+ if i<x:
+  lista2.append(i)
+  print(lista2)
