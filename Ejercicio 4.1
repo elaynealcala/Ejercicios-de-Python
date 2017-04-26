@@ -1,0 +1,17 @@
+# Descripción: Programa  que pregunta al usuario por un numero, imprimiendo en una lista de todos los divisores de este numero. 
+# Entrada: Numero x entero
+# Salida:  Numeros que son divisores de x
+# Autor:   EALCALA
+# Fecha:  26.04.2017
+# Version: 1.0
+#Plataforma: Python v3.6
+
+x = int(input("Escoga un numero entero para saber sus divisores: "))
+lista = list(range(1,x+1))
+
+lista2 = []
+for number in lista:
+ if x%number == 0:
+  lista2.append(number)
+
+print(lista2)
