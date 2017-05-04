@@ -1,4 +1,4 @@
-# Descripción: Programa que permite a un usuario jugar a Piedra, papel o tijera con un jugador virtual PC
+# Descripcion: Programa que permite a un usuario jugar a Piedra, papel o tijera con un jugador virtual PC
 # Entrada: Seleccion entre piedra, papel o tijera hecha por el usuario
 # Salida:  Felicitaciones al usuario ganador
 # Autor:   EALCALA
