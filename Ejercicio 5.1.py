@@ -1,4 +1,4 @@
-# Descripción: Programa que devuelve una lista que contiene solo los elementos que son comunes entre dos listas de distintos tamanos precargadas (sin duplicados)
+# Descripcion: Programa que devuelve una lista que contiene solo los elementos que son comunes entre dos listas de distintos tamanos precargadas (sin duplicados)
 # Entrada: Listas precargadas en el programa
 # Salida:  Lista de elementos comunes entre ambas listas
 # Autor:   EALCALA
