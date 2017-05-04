@@ -1,4 +1,4 @@
-# Descripción: Programa que, de una lista precargada [1, 4, 9, 16, 25, 36, 49, 64, 81, 100], escoge los numeros pares y los imprime de salida en una lista al usuario en una sola linea
+# Descripcion: Programa que, de una lista precargada [1, 4, 9, 16, 25, 36, 49, 64, 81, 100], escoge los numeros pares y los imprime de salida en una lista al usuario en una sola linea
 # Entrada: Lista [1, 4, 9, 16, 25, 36, 49, 64, 81, 100]
 # Salida:  Una lista que contiene los numeros pares de la lista [1, 4, 9, 16, 25, 36, 49, 64, 81, 100]
 # Autor:   EALCALA
