@@ -1,4 +1,4 @@
-# Descripción: Programa que solicita al usuario por un string y devuelve si la misma es un palindromo o si no lo es
+# Descripcion: Programa que solicita al usuario por un string y devuelve si la misma es un palindromo o si no lo es
 # Entrada: Palabra a
 # Salida:  Es palindromo o no es palindromo
 # Autor:   EALCALA
