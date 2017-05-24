@@ -6,9 +6,7 @@
 # Version: 1.0
 #Plataforma: Python v2.7
 
-x = input("Escoja un numero entero mayor o igual a 2 para saber si es primo o no: ")
-if not x.isnumeric():
-    raise Exception("Por favor, ingrese un numero")
+x = int(input("Escoja un numero entero mayor o igual a 2 para saber si es primo o no: "))
 x = int(x)
 
 div = [n for n in range(2,x) if x%n == 0]
